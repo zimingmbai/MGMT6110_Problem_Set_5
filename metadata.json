@@ -1,0 +1,7 @@
+{
+  "name": "MGMT6110 Problem Set 5: Agent Card & Two-by-Two Map",
+  "description": "MGMT6110 Problem Set 5: Zapier agent specification card, interactive 2x2 map positioning, and person-in-the-loop reflection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
